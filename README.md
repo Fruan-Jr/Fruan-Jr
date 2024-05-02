@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Barber Booking system](https://github.com/Baelong/eComProject.git)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Firebase** with Flutter for Android applications
 
 - 📫 How to reach me **fruanjr2004@gmail.com**
 
