@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior</h1>
-<h3 align="center">A passionate second year computer science technology student from Vanier</h3>
+<h3 align="center">A passionate second year Computer Science Technology student from Vanier</h3>
 
 - 🔭 I’m currently working on [a Barber Booking system](https://github.com/Baelong/eComProject.git)
 
