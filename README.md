@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Junior</h1>
-<h3 align="center">A passionate second year Computer Science Technology student from Vanier</h3>
+<h3 align="center">A passionate third year Computer Science Technology student at Vanier College</h3>
 
-- 🔭 I’m currently working on [a Barber Booking system](https://github.com/Baelong/eComProject.git)
-
-- 🌱 I’m currently learning **Firebase** with Flutter for Android applications
+- 🔭 I’m currently working on a REST Web service focused on wildlife data.
 
 - 📫 How to reach me **fruanjr2004@gmail.com**
 
